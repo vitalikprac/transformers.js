@@ -41,13 +41,13 @@
     "@huggingface/jinja": "^0.2.2",
     "image-codecs": "^0.1.0",
     "node-wav": "^0.0.2",
-    "onnxruntime-web": "^1.17.0",
+    "onnxruntime-web": "^1.16.0",
     "sharp": "^0.32.0"
   },
   "optionalDependencies": {
     "browserify-zlib": "^0.2.0",
-    "onnxruntime-node": "^1.17.0",
-    "onnxruntime-react-native": "^1.17.0",
+    "onnxruntime-node": "^1.16.0",
+    "onnxruntime-react-native": "^1.16.0",
     "path-browserify": "^1.0.1",
     "@dr.pogodin/react-native-fs": "^2.24.5"
   },
